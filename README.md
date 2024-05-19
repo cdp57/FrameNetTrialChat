@@ -1,1 +1,1 @@
-Initial attempt to build a basic RAG chatbot using LangChain's rag_conversation template. Currently not functional due to inability to connect to the local server (output error: "Error loading ASGI app. Could not import module "app.server""). 
+Initial attempt to build a basic RAG chatbot using LangChain's rag_conversation template. Currently not functional due to inability to connect to the local server after using "langchain serve" command (output error: "Error loading ASGI app. Could not import module "app.server""). 
