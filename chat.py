@@ -2,10 +2,10 @@ import os
 from langserve.client import RemoteRunnable
 
 # set OpenAI api key
-os.environ["OPENAI_API_KEY"] = "sk-proj-BmPjizYAgrTPpcmvYCfAT3BlbkFJ8B5OHjooRsnAfteIp48h"
+os.environ["OPENAI_API_KEY"] = "###"
 
 # set Pinecone environment variables
-os.environ["PINECONE_API_KEY"] = "a917142b-2398-47c9-a371-f9e63415acd3"
+os.environ["PINECONE_API_KEY"] = "###"
 os.environ["PINECONE_ENVIRONMENT"] = "gcp-starter"
 os.environ["PINECONE_INDEX"] = "test"
 
